@@ -90,8 +90,8 @@ pip install pandas numpy scikit-learn
 python task1_pipeline_real.py                                       
 ## Dataset
 
+## Dataset
+
 The dataset is included in this repository as `cognifyz_restaurant_dataset.csv`.
 
 If GitHub cannot preview the dataset because of its size, please download the file locally before running the project.
-
-
